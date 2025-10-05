@@ -68,10 +68,4 @@ This repository contains manual testing documentation for **OrangeHRM (Human Res
 
 ---
 
-## 📞 Contact
-
-For any questions or clarifications, please refer to the documentation files in this repository.
-
----
-
 **Last Updated:** October 2025
